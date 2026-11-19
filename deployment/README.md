@@ -40,3 +40,14 @@ bicycle repair tracking system.
 - Cloud provider: Google Cloud Platform
 - Deployment model: Infrastructure as a Service (IaaS)
 - Planned compute service: Google Compute Engine
+## Docker Installation Verification
+
+- Docker Engine version: 29.1.3
+- Docker Compose version: 2.40.3
+- Installation test: hello-world container
+- Test result: Successful
+- Date tested: 19 November 2026
+
+The successful execution of the hello-world container
+confirmed that the virtual machine supports containerised
+application deployment and can retrieve images from Docker Hub.
