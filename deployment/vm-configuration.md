@@ -10,7 +10,7 @@
 | Machine type | e2-small |
 | vCPU | 2 (shared-core) |
 | RAM | 2 GB |
-| Operating system | Ubuntu 24.04 LTS |
+| Operating system | Ubuntu Minimal 24.04 LTS |
 | Storage | 20 GB balanced persistent disk |
 | External IP | Ephemeral |
 | Estimated monthly cost | $15.45 |
