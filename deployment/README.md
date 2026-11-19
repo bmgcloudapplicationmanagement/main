@@ -29,7 +29,7 @@ bicycle repair tracking system.
 - [x] Provision virtual machine
 - [x] Configure firewall rules
 - [x] Install Docker and Docker Compose
-- [ ] Deploy test application
+- [x] Deploy test application
 - [ ] Deploy frontend and backend
 - [ ] Complete deployment testing
 - [ ] Finalise deployment documentation
