@@ -26,8 +26,8 @@ bicycle repair tracking system.
 - [x] Create individual GitHub branch
 - [x] Create Google Cloud project
 - [x] Configure billing and budget alerts
-- [ ] Provision virtual machine
-- [ ] Configure firewall rules
+- [x] Provision virtual machine
+- [x] Configure firewall rules
 - [ ] Install Docker and Docker Compose
 - [ ] Deploy test application
 - [ ] Deploy frontend and backend
