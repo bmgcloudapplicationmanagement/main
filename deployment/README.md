@@ -24,8 +24,8 @@ bicycle repair tracking system.
 
 ## Deployment Progress
 - [x] Create individual GitHub branch
-- [ ] Create Google Cloud project
-- [ ] Configure billing and budget alerts
+- [x] Create Google Cloud project
+- [x] Configure billing and budget alerts
 - [ ] Provision virtual machine
 - [ ] Configure firewall rules
 - [ ] Install Docker and Docker Compose
