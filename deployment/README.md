@@ -33,3 +33,10 @@ bicycle repair tracking system.
 - [ ] Deploy frontend and backend
 - [ ] Complete deployment testing
 - [ ] Finalise deployment documentation
+## Google Cloud Project Configuration
+
+- Project name: DBS Bike school project
+- Project ID: dbs-bike-school-project
+- Cloud provider: Google Cloud Platform
+- Deployment model: Infrastructure as a Service (IaaS)
+- Planned compute service: Google Compute Engine
