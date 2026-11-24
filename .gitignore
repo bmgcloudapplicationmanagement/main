@@ -1,0 +1,21 @@
+# Local settings and secrets
+.env
+.env.local
+venv/
+.venv/
+# Temporary and generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+data/*
+!data/.gitkeep
+# Editors
+.vscode/
+.idea/
+.DS_Store
