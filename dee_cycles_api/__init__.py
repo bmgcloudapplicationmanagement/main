@@ -1,4 +1,4 @@
-"""Bee Cycles repair-request API application factory.
+"""Dee Cycles repair-request API application factory.
 
 Coursework prototype. The organisation's actual systems are not accessed.
 """

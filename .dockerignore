@@ -1,0 +1,16 @@
+# Local files must not enter the Docker build context.
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.env
+.env.*
+data/
+tests/
+scripts/
+docs/
+api_examples/
+*.db
+*.zip
