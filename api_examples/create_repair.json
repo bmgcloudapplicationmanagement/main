@@ -1,0 +1,7 @@
+{
+  "customer_name": "Test Customer",
+  "email": "test@example.com",
+  "bicycle_type": "Mountain Bike",
+  "service_type": "Standard",
+  "description": "Brake adjustment required"
+}
