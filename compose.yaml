@@ -1,0 +1,16 @@
+services:
+  api:
+    build: .
+    ports:
+      # Only accessible from the Docker host; place HTTPS/reverse proxy in front.
+      - "127.0.0.1:5000:5000"
+    environment:
+      DATABASE_PATH: /app/data/repairs.db
+      PORT: "5000"
+      STAFF_API_KEY: "${STAFF_API_KEY:?Set STAFF_API_KEY in a private .env file or shell}"
+    volumes:
+      - dee_cycles_sqlite:/app/data
+    restart: unless-stopped
+
+volumes:
+  dee_cycles_sqlite:
